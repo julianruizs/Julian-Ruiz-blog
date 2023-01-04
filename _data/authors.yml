@@ -5,6 +5,10 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+julian:
+  name: Julian Ruiz
+  twitter: julian_ruizs
+  url: https://github.com/julianruizs
 
 cotes:
   name: Cotes Chung
