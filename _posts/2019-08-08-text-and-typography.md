@@ -14,6 +14,7 @@ image:
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
+![Julian-Ruiz-logo](https://images2.imgbox.com/8d/7f/2HNSdf6R_o.png){: width="300" height="300"}
 ## Titles
 ---
 # H1 - heading
