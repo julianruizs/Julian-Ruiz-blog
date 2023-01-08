@@ -16,6 +16,7 @@ tabs:
   archives: Archivo
   about: Acerca de
 
+
 # the text displayed in the search bar & search results
 search:
   hint: Buscar
